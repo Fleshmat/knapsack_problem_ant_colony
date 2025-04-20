@@ -49,14 +49,17 @@ python main.py
 
 El algoritmo mostrará en consola la mejor solución encontrada, generará un gráfico y guardará los resultados en Resultados.xlsx.
 
-## 📈 Ejemplo de Salida
-Mejor solución encontrada en la iteración 73
+## 📈 Ejemplo de Salida (Terminal)
 
-Valor total: 5820
+La mejor solución se alcanzó en la iteración número 34.
 
-Peso total: 2445g
+Tiempo de duración: 0.80 segundos
 
-Ítems seleccionados: [2, 0, 0, 1, ...] (representa cuántas veces se seleccionó cada ítem)
+Mejor Valor Global: 662301
+
+Peso Total en gr: 19943
+
+Mejor Solución Global (Cantidad de Ítems seleccionados): [0, 2, 6, 5, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0]   
 
 ## 📑 Créditos
 Este proyecto es una implementación educativa y experimental del algoritmo ACO adaptado a un problema combinatorio clásico.
