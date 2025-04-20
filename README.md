@@ -5,12 +5,17 @@ Este proyecto implementa una solución basada en el **Algoritmo de Colonia de Ho
 ## 📦 Estructura del Proyecto
 
 knapsack_project/
-│
+
 ├── main.py               # Script principal que ejecuta todo el proceso
+
 ├── config.py             # Parámetros y configuración global del algoritmo
+
 ├── data_loader.py        # Carga y procesamiento de datos desde Excel
+
 ├── ant_colony.py         # Lógica del algoritmo ACO
+
 ├── utils.py              # Funciones auxiliares (como guardar resultados)
+
 └── plotter.py            # Gráficos de evolución de soluciones
 
 ## 🧠 ¿Qué es el Problema de la Mochila?
